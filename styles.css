@@ -1,0 +1,9 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+ font-style: inherit;
+ text-shadow: 50px;
+ text-decoration-color: blue;
+ text-align: justify;
+text-overflow: initial;
+}
